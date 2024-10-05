@@ -79,8 +79,8 @@ body.multiple-scenes.mobile #titleBar {
   height: 100%;
   line-height: 30px;
   padding: 5px;
-  background-color: rgb(58,68,84);
-  background-color: rgba(58,68,84,0.8);
+  background-color: rgb(0,49,83);
+  background-color: rgba(0,49,83,0.7);
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -103,8 +103,8 @@ body.multiple-scenes.mobile #titleBar {
   width: 40px;
   height: 40px;
   padding: 5px;
-  background-color: rgb(103,115,131);
-  background-color: rgba(103,115,131,0.8);
+  background-color: rgb(255,206,172);
+  background-color: rgba(255,206,172,0.8);
 }
 
 .mobile #fullscreenToggle {
@@ -453,7 +453,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   width: 40px;
   height: 40px;
   border-radius: 20px;
-  background-color: rgb(103,115,131);
+  background-color: rgb(0,49,83);
   cursor: pointer;
   -webkit-transition: width 0.3s ease-in-out 0.5s,
                       border-radius 0.3s ease-in-out 0.5s;
@@ -786,8 +786,8 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   width: 40px;
   height: 40px;
   padding: 5px;
-  background-color: rgb(103,115,131);
-  background-color: rgba(103,115,131,0.8);
+  background-color: rgb(0,49,83);
+  background-color: rgba(0,49,83,0.8);
 }
 
 body.view-control-buttons .viewControlButton {
